@@ -1,5 +1,5 @@
 # Audio_Video_Player
-Audio Video Player using ffmpeg and SDL2.0
+Audio Video Player using ffmpeg and SDL2.0.
 An audio video player has been created through this project using C++. 
 FFMPEG libraries have been used for decoding audio and video stream.
 SDL2.0 libraries have been used to render the audio and video.
